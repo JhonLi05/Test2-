@@ -1,4 +1,4 @@
-public class Gatos {
+public class Gato {
     public int edad;
     public String nombre;
 
@@ -13,7 +13,7 @@ public class Gatos {
     public int getEdad() {return edad;}
     public String getNombre() {return nombre;}
 
-    public Gatos(int edad,String nombre) {
+    public Gato(int edad,String nombre) {
         this.edad = edad;
         this.nombre = nombre;
     }
