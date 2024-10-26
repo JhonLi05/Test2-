@@ -7,7 +7,7 @@ public class Main {
         Gatos g4 = new Gatos(6,"MIA");
         Gatos g5 = new Gatos(7,"Nani");
         Gatos g6 = new Gatos(8,"Rayas");
-
+        
         //System.out.println(g1);
         System.out.printf(g1.toString()).println();
         System.out.printf(g2.toString()).println();
