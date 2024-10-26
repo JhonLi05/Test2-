@@ -20,7 +20,7 @@ public class Gatos {
 
     @Override
     public String toString() {
-        return "Gatos{" +
+        return "Gato {" +
                 "edad=" + getEdad() +
                 ", nombre='" + getNombre() + '\'' +
                 '}';
