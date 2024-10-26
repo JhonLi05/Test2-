@@ -1,6 +1,6 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+
 public class Main {
+
     public static void main(String[] args) {
         Gato g1 = new Gato(3,"Zeus");
         Gato g2 = new Gato(4,"Liam");
@@ -10,7 +10,6 @@ public class Main {
         Gato g6 = new Gato(8,"Rayas");
         Gato g7 = new Gato(9,"Manchas");
 
-        //System.out.println(g1);
         System.out.println("****  Listado de gatos  ****");
         System.out.println();
         System.out.printf(g1.toString()).println();
@@ -23,6 +22,5 @@ public class Main {
         System.out.println();
         System.out.println("****         FIN        ****");
         System.out.println("****  ----------------  ****");
-
         }
     }
