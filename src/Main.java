@@ -9,6 +9,7 @@ public class Main {
         Gato g5 = new Gato(7,"Nani");
         Gato g6 = new Gato(8,"Rayas");
         Gato g7 = new Gato(9,"Manchas");
+        Gato g8 = new Gato(10,"Sam");
 
         //System.out.println(g1);
         System.out.println("****  Listado de gatos  ****");
@@ -20,6 +21,7 @@ public class Main {
         System.out.printf(g5.toString()).println();
         System.out.printf(g6.toString()).println();
         System.out.printf(g7.toString()).println();
+        System.out.printf(g8.toString()).println();
         System.out.println();
         System.out.println("****         FIN        ****");
         System.out.println("****  ----------------  ****");
